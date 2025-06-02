@@ -3,6 +3,9 @@
 trained_models/
 models/trained_models/
 format/trained_models/
+models/pgn
+models/books
+models/tablebases
 .DS_Store
 __pycache__/
 *.pyc
