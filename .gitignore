@@ -9,6 +9,7 @@ models/tablebases
 .DS_Store
 __pycache__/
 *.pyc
+*.json
 venv/
 files-to-remove.txt
 preprocess_data.py
