@@ -3,7 +3,7 @@
 trained_models/
 models/trained_models/
 format/trained_models/
-models/pgn
+/Users/corbynledbetter/Desktop/pamelaislearning-engine/chess-engine-fresh/models/pgn/1 - READ ME.txt
 models/books
 models/tablebases
 .DS_Store
@@ -13,3 +13,4 @@ venv/
 files-to-remove.txt
 preprocess_data.py
 download_chess_data.py
+models/pgn/1 - READ ME.txt
