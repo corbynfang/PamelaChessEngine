@@ -1,0 +1,9 @@
+*.pth
+*.pgn
+trained_models/
+models/trained_models/
+format/trained_models/
+.DS_Store
+__pycache__/
+*.pyc
+venv/

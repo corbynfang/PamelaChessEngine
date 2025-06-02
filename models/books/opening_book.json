@@ -1,0 +1,64 @@
+{
+  "openings": {
+    "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1": {
+      "e2e4": {
+        "weight": 100,
+        "evaluation": 0.1
+      },
+      "d2d4": {
+        "weight": 95,
+        "evaluation": 0.0975
+      },
+      "g1f3": {
+        "weight": 85,
+        "evaluation": 0.0925
+      },
+      "c2c4": {
+        "weight": 80,
+        "evaluation": 0.09
+      }
+    },
+    "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1": {
+      "e7e5": {
+        "weight": 100,
+        "evaluation": 0.1
+      },
+      "c7c5": {
+        "weight": 95,
+        "evaluation": 0.0975
+      },
+      "e7e6": {
+        "weight": 80,
+        "evaluation": 0.09
+      },
+      "c7c6": {
+        "weight": 75,
+        "evaluation": 0.0875
+      }
+    },
+    "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1": {
+      "d7d5": {
+        "weight": 100,
+        "evaluation": 0.1
+      },
+      "g8f6": {
+        "weight": 95,
+        "evaluation": 0.0975
+      },
+      "f7f5": {
+        "weight": 70,
+        "evaluation": 0.085
+      },
+      "e7e6": {
+        "weight": 85,
+        "evaluation": 0.0925
+      }
+    }
+  },
+  "principles": {
+    "control_center": 0.1,
+    "develop_pieces": 0.08,
+    "king_safety": 0.12,
+    "early_queen": -0.05
+  }
+}
