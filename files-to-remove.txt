@@ -1,5 +1,0 @@
-chess-engine/models/data/sample_games.pgn
-chess-engine/models/trained_models/enhanced_chess_model.pth
-format/trained_models/best_chess_model.pth
-format/trained_models/chess_model_epoch_*.pth
-format/trained_models/final_chess_model.pth
