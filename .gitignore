@@ -7,3 +7,7 @@ format/trained_models/
 __pycache__/
 *.pyc
 venv/
+
+files-to-remove.txt
+preprocess_data.py
+download_chess_data.py
