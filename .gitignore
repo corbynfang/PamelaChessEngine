@@ -15,3 +15,4 @@ files-to-remove.txt
 preprocess_data.py
 download_chess_data.py
 models/pgn/1 - READ ME.txt
+*.json
