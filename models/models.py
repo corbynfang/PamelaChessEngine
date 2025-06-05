@@ -3,7 +3,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 class ChessAI(nn.Module):
-    """Single, optimized chess evaluation model"""
     def __init__(self, input_channels=13):
         super().__init__()
 
@@ -61,6 +60,5 @@ class ChessAI(nn.Module):
         evaluation = self.evaluator(features)
         return evaluation
 
-# Simple factory function
 def create_chess_model():
     return ChessAI()
